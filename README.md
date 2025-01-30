@@ -161,8 +161,7 @@ Expansion of customer segmentation to include more granular demographic data.
 
 
 
-Details
-![BLR_Details](https://github.com/user-attachments/assets/e6d2df75-0cd8-404c-af74-a59d4f5402ca)
+
 
 
 
