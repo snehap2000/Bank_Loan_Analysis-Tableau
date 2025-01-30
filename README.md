@@ -96,6 +96,32 @@ Overview
 
 
 
+
+
+
+
+
+
+
+
+
+Details
+![BLR_Details](https://github.com/user-attachments/assets/e6d2df75-0cd8-404c-af74-a59d4f5402ca)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Insights
 Loan Approval Rates: Loan approval rates are highest among customers with higher credit scores and stable incomes.
 
