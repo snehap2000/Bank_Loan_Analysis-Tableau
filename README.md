@@ -22,7 +22,7 @@ This project focuses on analyzing bank loan data to uncover patterns and trends 
 ## Dataset used
 
 
-<a href = "https://github.com/snehap2000/Bank_Loan_Analysis-Tableau/blob/main/financial_loan.csv">DataSet</a>
+<a href = "https://github.com/snehap2000/Bank_Loan_Analysis-Tableau/commit/cc74176ad0d5b74f9459d5f115e8a2c2dc887bb6">DataSet</a>
 
 
 
@@ -42,7 +42,7 @@ This project focuses on analyzing bank loan data to uncover patterns and trends 
 
 ## Dashboard Interaction
 
-  <a href = "https://github.com/snehap2000/Bank_Loan_Analysis-Tableau/blob/main/BANK%20LOAN%20REPORT.twb">ViewDashboard</a>
+  <a href = "https://github.com/snehap2000/Bank_Loan_Analysis-Tableau/commit/cc74176ad0d5b74f9459d5f115e8a2c2dc887bb6">ViewDashboard</a>
 
 
 ## Technologies Used
